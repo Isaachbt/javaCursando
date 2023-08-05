@@ -1,9 +1,9 @@
-package genericos.test;
+package org.example.java.genericos.test;
 
-import genericos.dominio.Barco;
-import genericos.dominio.Carro;
-import genericos.service.CarroRentavelService;
-import genericos.service.RentalService;
+
+import org.example.java.genericos.dominio.Barco;
+import org.example.java.genericos.dominio.Carro;
+import org.example.java.genericos.service.RentalService;
 
 import java.util.ArrayList;
 import java.util.List;

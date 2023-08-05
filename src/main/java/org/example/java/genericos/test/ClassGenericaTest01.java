@@ -1,7 +1,8 @@
-package genericos.test;
+package org.example.java.genericos.test;
 
-import genericos.dominio.Carro;
-import genericos.service.CarroRentavelService;
+
+import org.example.java.genericos.dominio.Carro;
+import org.example.java.genericos.service.CarroRentavelService;
 
 public class ClassGenericaTest01 {
     public static void main(String[] args) {

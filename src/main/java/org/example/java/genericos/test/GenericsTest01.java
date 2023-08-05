@@ -1,4 +1,4 @@
-package genericos.test;
+package org.example.java.genericos.test;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package genericos.test;
+package org.example.java.genericos.test;
 
 
 abstract class Animal
