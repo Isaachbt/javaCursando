@@ -1,4 +1,4 @@
-package exercao.dominio;
+package org.example.java.exercao.dominio;
 
 //toda class q trata Exception deve ter Exception no final do nome
 public class LoginInvalidoException extends Exception{

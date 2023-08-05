@@ -1,9 +1,10 @@
-package polimorfismo.dominio;
+package org.example.java.polimorfismo.dominio;
 
-import polimorfismo.model.Computador;
-import polimorfismo.model.Televisao;
-import polimorfismo.model.Tomate;
-import polimorfismo.servico.CalculadoraImposto;
+import org.example.java.polimorfismo.model.Computador;
+import org.example.java.polimorfismo.model.Televisao;
+import org.example.java.polimorfismo.model.Tomate;
+import org.example.java.polimorfismo.servico.CalculadoraImposto;
+
 
 public class Main {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package interfaces;
+package org.example.java.interfaces;
 
 public interface DataRemove {
 

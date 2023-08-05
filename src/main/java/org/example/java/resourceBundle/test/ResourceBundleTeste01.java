@@ -1,4 +1,4 @@
-package resourceBundle.test;
+package org.example.java.resourceBundle.test;
 
 import java.util.Locale;
 import java.util.ResourceBundle;

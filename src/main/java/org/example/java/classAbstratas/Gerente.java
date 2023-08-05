@@ -1,4 +1,4 @@
-package classAbstratas;
+package org.example.java.classAbstratas;
 
 public class Gerente extends Funcionario{
 

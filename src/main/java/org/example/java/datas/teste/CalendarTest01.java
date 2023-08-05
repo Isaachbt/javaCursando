@@ -1,4 +1,4 @@
-package datas.teste;
+package org.example.java.datas.teste;
 
 import java.util.Calendar;
 import java.util.Date;

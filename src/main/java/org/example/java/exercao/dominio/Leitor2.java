@@ -1,4 +1,4 @@
-package exercao.dominio;
+package org.example.java.exercao.dominio;
 
 import java.io.Closeable;
 import java.io.IOException;

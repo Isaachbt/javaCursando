@@ -1,4 +1,4 @@
-package classAbstratas;
+package org.example.java.classAbstratas;
 
 public abstract class Pessoa {
     //quando vc extend uma class abstract em outra class abstract, pode! mais se a outra class abstract

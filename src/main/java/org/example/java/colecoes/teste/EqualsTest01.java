@@ -1,6 +1,7 @@
-package colecoes.teste;
+package org.example.java.colecoes.teste;
 
-import colecoes.dominio.Smartphone;
+
+import org.example.java.colecoes.dominio.Smartphone;
 
 public class EqualsTest01 {
     public static void main(String[] args) {

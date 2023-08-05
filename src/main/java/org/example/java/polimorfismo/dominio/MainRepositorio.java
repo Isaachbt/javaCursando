@@ -1,4 +1,4 @@
-package polimorfismo.dominio;
+package org.example.java.polimorfismo.dominio;
 
 import polimorfismo.repositorio.Repositorio;
 import polimorfismo.servico.RepositorioArquivos;

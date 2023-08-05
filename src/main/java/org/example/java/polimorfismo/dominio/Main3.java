@@ -1,8 +1,9 @@
-package polimorfismo.dominio;
+package org.example.java.polimorfismo.dominio;
 
-import polimorfismo.model.Computador;
-import polimorfismo.model.Produto;
-import polimorfismo.model.Tomate;
+import org.example.java.polimorfismo.model.Computador;
+import org.example.java.polimorfismo.model.Produto;
+import org.example.java.polimorfismo.model.Tomate;
+
 
 public class Main3 {
     public static void main(String[] args) {

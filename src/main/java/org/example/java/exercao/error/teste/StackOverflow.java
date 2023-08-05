@@ -1,4 +1,4 @@
-package exercao.error.teste;
+package org.example.java.exercao.error.teste;
 
 public class StackOverflow {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package classInternas.test;
+package org.example.java.classInternas.test;
 
 public class OuterClassTest2 {
     private static String name = "Isaac lima test 2";

@@ -1,4 +1,4 @@
-package formatacao.teste;
+package org.example.java.formatacao.teste;
 
 import java.time.LocalDate;
 import java.time.LocalDateTime;

@@ -1,6 +1,7 @@
-package polimorfismo.servico;
+package org.example.java.polimorfismo.servico;
 
-import polimorfismo.model.Produto;
+import org.example.java.polimorfismo.model.Produto;
+
 
 public class CalculadoraImposto {
 

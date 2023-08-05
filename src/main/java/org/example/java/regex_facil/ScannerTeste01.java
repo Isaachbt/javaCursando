@@ -1,4 +1,4 @@
-package regex_facil;
+package org.example.java.regex_facil;
 
 public class ScannerTeste01 {
     public static void main(String[] args) {

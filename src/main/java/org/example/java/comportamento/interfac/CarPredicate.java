@@ -1,6 +1,6 @@
-package comportamento.interfac;
+package org.example.java.comportamento.interfac;
 
-import comportamento.dominio.Car;
+import org.example.java.comportamento.dominio.Car;
 
 public interface CarPredicate {
     boolean test(Car car);

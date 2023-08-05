@@ -1,4 +1,4 @@
-package polimorfismo.model;
+package org.example.java.polimorfismo.model;
 
 public class Televisao extends Produto{
     public static final double IMPOSTO_POR_CENTO = 0.21;

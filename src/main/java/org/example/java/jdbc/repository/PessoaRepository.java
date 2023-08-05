@@ -1,6 +1,5 @@
 package org.example.java.jdbc.repository;
-
-import jdbc.conn.ConectionFactory;
+import org.example.java.jdbc.conn.ConectionFactory;
 import org.example.java.jdbc.dominio.PessoaBd;
 
 

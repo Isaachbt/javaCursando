@@ -1,7 +1,7 @@
-package colecoes.teste;
+package org.example.java.colecoes.teste;
 
-import colecoes.dominio.Consumidor;
-import colecoes.dominio.Manga;
+import org.example.java.colecoes.dominio.Consumidor;
+import org.example.java.colecoes.dominio.Manga;
 
 import java.util.LinkedHashMap;
 import java.util.Map;

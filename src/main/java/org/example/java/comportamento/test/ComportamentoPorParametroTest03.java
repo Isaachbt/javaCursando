@@ -1,6 +1,6 @@
-package comportamento.test;
+package org.example.java.comportamento.test;
 
-import comportamento.dominio.Car;
+import org.example.java.comportamento.dominio.Car;
 
 import java.util.ArrayList;
 import java.util.List;

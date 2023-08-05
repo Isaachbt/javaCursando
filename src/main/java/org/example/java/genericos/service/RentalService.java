@@ -1,4 +1,4 @@
-package genericos.service;
+package org.example.java.genericos.service;
 
 import java.util.List;
 

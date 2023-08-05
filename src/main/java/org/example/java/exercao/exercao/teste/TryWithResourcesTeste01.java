@@ -1,7 +1,8 @@
-package exercao.exercao.teste;
+package org.example.java.exercao.exercao.teste;
 
-import exercao.dominio.Leitor1;
-import exercao.dominio.Leitor2;
+
+import org.example.java.exercao.dominio.Leitor1;
+import org.example.java.exercao.dominio.Leitor2;
 
 import java.io.*;
 

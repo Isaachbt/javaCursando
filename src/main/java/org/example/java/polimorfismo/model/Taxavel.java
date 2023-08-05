@@ -1,4 +1,4 @@
-package polimorfismo.model;
+package org.example.java.polimorfismo.model;
 
 public interface Taxavel {
 

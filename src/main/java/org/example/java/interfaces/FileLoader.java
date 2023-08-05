@@ -1,4 +1,4 @@
-package interfaces;
+package org.example.java.interfaces;
 
 public class FileLoader implements DataLoad,DataRemove{
     @Override

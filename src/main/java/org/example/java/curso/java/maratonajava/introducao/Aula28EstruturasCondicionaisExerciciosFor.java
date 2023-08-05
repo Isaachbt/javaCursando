@@ -1,4 +1,4 @@
-package curso.java.maratonajava.introducao;
+package org.example.java.curso.java.maratonajava.introducao;
 
 public class Aula28EstruturasCondicionaisExerciciosFor {
     public static void main(String[] args) {

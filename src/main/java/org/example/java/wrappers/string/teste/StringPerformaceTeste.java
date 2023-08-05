@@ -1,4 +1,4 @@
-package wrappers.string.teste;
+package org.example.java.wrappers.string.teste;
 
 public class StringPerformaceTeste {
     public static void main(String[] args) {

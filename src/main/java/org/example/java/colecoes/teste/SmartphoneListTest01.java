@@ -1,6 +1,6 @@
-package colecoes.teste;
+package org.example.java.colecoes.teste;
 
-import colecoes.dominio.Smartphone;
+import org.example.java.colecoes.dominio.Smartphone;
 
 import java.util.ArrayList;
 import java.util.List;

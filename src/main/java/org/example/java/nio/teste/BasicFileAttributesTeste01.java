@@ -1,4 +1,4 @@
-package nio.teste;
+package org.example.java.nio.teste;
 
 import java.io.File;
 import java.io.IOException;

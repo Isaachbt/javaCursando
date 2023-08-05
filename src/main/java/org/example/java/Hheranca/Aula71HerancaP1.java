@@ -1,4 +1,4 @@
-package Hheranca;
+package org.example.java.Hheranca;
 
 public class Aula71HerancaP1 {
     public static void main(String[] args) {

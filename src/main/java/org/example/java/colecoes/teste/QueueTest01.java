@@ -1,4 +1,4 @@
-package colecoes.teste;
+package org.example.java.colecoes.teste;
 
 import java.util.PriorityQueue;
 import java.util.Queue;

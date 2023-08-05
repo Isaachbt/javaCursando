@@ -1,4 +1,4 @@
-package wrappers.teste;
+package org.example.java.wrappers.teste;
 
 public class WrappersTeste01 {
     public static void main(String[] args) {

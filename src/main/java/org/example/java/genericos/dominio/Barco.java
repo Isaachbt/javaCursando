@@ -1,4 +1,4 @@
-package genericos.dominio;
+package org.example.java.genericos.dominio;
 
 public class Barco {
     private String nome;

@@ -1,4 +1,4 @@
-package polimorfismo.servico;
+package org.example.java.polimorfismo.servico;
 
 import polimorfismo.repositorio.Repositorio;
 

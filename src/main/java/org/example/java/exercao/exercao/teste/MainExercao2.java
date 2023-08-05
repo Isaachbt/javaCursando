@@ -1,4 +1,4 @@
-package exercao.exercao.teste;
+package org.example.java.exercao.exercao.teste;
 
 import java.io.File;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package colecoes.dominio;
+package org.example.java.colecoes.dominio;
 
 import java.util.Objects;
 

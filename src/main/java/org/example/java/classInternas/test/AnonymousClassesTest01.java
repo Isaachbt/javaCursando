@@ -1,4 +1,4 @@
-package classInternas.test;
+package org.example.java.classInternas.test;
 
 //exemplo
 class Animal{

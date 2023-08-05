@@ -1,7 +1,7 @@
-package serializacao.test;
+package org.example.java.serializacao.test;
 
-import serializacao.dominio.Aluno;
-import serializacao.dominio.Turma;
+import org.example.java.serializacao.dominio.Aluno;
+import org.example.java.serializacao.dominio.Turma;
 
 import java.io.IOException;
 import java.io.ObjectInputStream;

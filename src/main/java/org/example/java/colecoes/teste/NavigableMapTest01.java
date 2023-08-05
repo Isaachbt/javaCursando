@@ -1,7 +1,7 @@
-package colecoes.teste;
+package org.example.java.colecoes.teste;
 
-import colecoes.dominio.Consumidor;
-import colecoes.dominio.Manga;
+
+import org.example.java.colecoes.dominio.Consumidor;
 
 import java.util.Map;
 import java.util.NavigableMap;

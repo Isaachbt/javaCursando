@@ -1,4 +1,4 @@
-package Hheranca;
+package org.example.java.Hheranca;
 
 public class Funcionario extends Pessoa{
 

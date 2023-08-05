@@ -1,4 +1,4 @@
-package datas.teste;
+package org.example.java.datas.teste;
 
 import java.time.LocalDate;
 import java.time.Period;

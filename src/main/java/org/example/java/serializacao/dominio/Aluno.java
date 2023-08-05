@@ -1,4 +1,4 @@
-package serializacao.dominio;
+package org.example.java.serializacao.dominio;
 
 import java.io.*;
 

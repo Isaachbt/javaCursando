@@ -1,6 +1,7 @@
-package exercao.error.teste;
+package org.example.java.exercao.error.teste;
 
-import exercao.dominio.LoginInvalidoException;
+
+import org.example.java.exercao.dominio.LoginInvalidoException;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package exercao.rumTime.teste;
+package org.example.java.exercao.rumTime.teste;
 
 public class RumTimeExecao2 {
     public static void main(String[] args) {

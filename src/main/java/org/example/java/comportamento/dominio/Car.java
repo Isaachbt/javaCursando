@@ -1,4 +1,4 @@
-package comportamento.dominio;
+package org.example.java.comportamento.dominio;
 
 public class Car {
     private String name = "Audi";

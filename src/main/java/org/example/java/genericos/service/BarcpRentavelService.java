@@ -1,6 +1,7 @@
-package genericos.service;
+package org.example.java.genericos.service;
 
-import genericos.dominio.Barco;
+
+import org.example.java.genericos.dominio.Barco;
 
 import java.util.ArrayList;
 import java.util.List;

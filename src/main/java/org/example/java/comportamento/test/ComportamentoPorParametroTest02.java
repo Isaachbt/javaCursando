@@ -1,6 +1,7 @@
-package comportamento.test;
-import comportamento.dominio.Car;
-import comportamento.interfac.CarPredicate;
+package org.example.java.comportamento.test;;
+
+import org.example.java.comportamento.dominio.Car;
+import org.example.java.comportamento.interfac.CarPredicate;
 
 import java.util.ArrayList;
 import java.util.List;

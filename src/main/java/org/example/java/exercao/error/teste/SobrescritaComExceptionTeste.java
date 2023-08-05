@@ -1,7 +1,8 @@
-package exercao.error.teste;
+package org.example.java.exercao.error.teste;
 
-import exercao.dominio.Funcionario;
-import exercao.dominio.Pessoa;
+
+import org.example.java.exercao.dominio.Funcionario;
+import org.example.java.exercao.dominio.Pessoa;
 
 public class SobrescritaComExceptionTeste {
     public static void main(String[] args) {
