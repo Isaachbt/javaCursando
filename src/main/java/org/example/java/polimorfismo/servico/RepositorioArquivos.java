@@ -1,6 +1,7 @@
 package org.example.java.polimorfismo.servico;
 
-import polimorfismo.repositorio.Repositorio;
+
+import org.example.java.polimorfismo.repositorio.Repositorio;
 
 public class RepositorioArquivos implements Repositorio {
 

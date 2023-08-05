@@ -1,10 +1,5 @@
 package org.example.java.polimorfismo.dominio;
 
-import polimorfismo.repositorio.Repositorio;
-import polimorfismo.servico.RepositorioArquivos;
-import polimorfismo.servico.RepositorioBancoDeDados;
-import polimorfismo.servico.RepositorioMemoria;
-
 public class MainRepositorio {
     public static void main(String[] args) {
         /*Se vc tem varias class implementando uma interface, da pra vc usar a interface para instanciar a class tipo:
