@@ -1,6 +1,8 @@
 package org.example.java.classInternas.test;
 
-import genericos.dominio.Barco;
+
+
+import org.example.java.genericos.dominio.Barco;
 
 import java.util.ArrayList;
 import java.util.Comparator;
