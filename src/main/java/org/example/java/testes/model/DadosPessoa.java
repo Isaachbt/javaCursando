@@ -1,13 +1,22 @@
 package org.example.java.testes.model;
 
+import java.util.Objects;
+
 public class DadosPessoa {
 
-    public static Boolean validarInfos(String nome,int idade)
+
+    public boolean validarInfos(String nome, int idade)
     {
-        if (idade != 0 && nome != null)
+        if (idade > 0 && !nome.isEmpty())
         {
+            Objects.requireNonNull(nome,"Name can´t be null");
             System.out.print(nome+"/"+idade);
             return true;
-        }else  return false;
+        }
+        return false;
+    }
+
+    public boolean isAdult(int age){
+        return age >= 18;
     }
 }

@@ -8,6 +8,6 @@ public class PegandoDadosPessoa {
         int idade = 10;
         String nome = "Isaac";
 
-        DadosPessoa.validarInfos(nome,idade);
+        //DadosPessoa.validarInfos(nome,idade);
     }
 }

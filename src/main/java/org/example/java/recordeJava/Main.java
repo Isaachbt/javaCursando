@@ -1,7 +1,7 @@
-package org.example.java.testes.recordeJava;
+package org.example.java.recordeJava;
 
-import org.example.java.testes.recordeJava.classNormal.PersonClass;
-import org.example.java.testes.recordeJava.classRecord.PersonRecord;
+import org.example.java.recordeJava.classNormal.PersonClass;
+import org.example.java.recordeJava.classRecord.PersonRecord;
 
 public class Main {
     public static void main(String[] args) {

@@ -8,14 +8,10 @@ import static org.junit.jupiter.api.Assertions.*;
 class PegandoDadosPessoaTest {
 
     @Test
-    void main() {
+    void camposAgeNameNotIsVazio() {
+        DadosPessoa dadosPessoa =  new DadosPessoa();
 
-        int idade = 10;
-        String nome = "Isaac";
+        assertTrue(dadosPessoa.validarInfos("Isaac",20));
 
-        if (!nome.isEmpty() && !(idade <10))
-        {
-            DadosPessoa.validarInfos(nome,idade);
-        }else fail();
     }
 }

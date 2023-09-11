@@ -1,4 +1,4 @@
-package org.example.java.testes.recordeJava.classRecord;
+package org.example.java.recordeJava.classRecord;
 
 public record PersonRecord(String nome,int idade) {
     //vantagens do Record: cria get e todos os outros (exceto set) hascode,toString,equals.... essa class economiza muito codigo

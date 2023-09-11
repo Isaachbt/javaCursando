@@ -1,4 +1,4 @@
-package org.example.java.testes.recordeJava.classNormal;
+package org.example.java.recordeJava.classNormal;
 
 import lombok.EqualsAndHashCode;
 import lombok.Getter;
