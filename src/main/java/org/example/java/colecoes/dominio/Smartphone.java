@@ -24,7 +24,7 @@ public class Smartphone {
 
     @Override
     public boolean equals(Object obj) {
-        //quando usar smart1.equals(smart2) na class principal esse metodo será chamado e ira ferificar tudo isso.
+        //quando usar smart1.equals(smart2) na class principal esse metodo será chamado e ira verificar tudo isso.
         //dessa forma ele esta verificando se os dados dentro das variaveis são iguais, não a referencia.
         if(obj == null) return  false;
         if (this == obj) return true;

@@ -15,7 +15,6 @@ public class AnonymousClassesTest01 {
         Animal animal = new Animal()
         {//criando uma subClass utilizando a propria class, class anonima sem nome
             // os dados vão ser diferente enquanto a referencia for usada, outra referencia não conta
-
             @Override
             public void walk() {
                 //mudando o valor do metodo

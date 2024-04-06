@@ -19,7 +19,7 @@ public class BinarySearchTest01 {
         //value 0,2,3,4,
 
         Collections.sort(numeros);
-        System.out.println(Collections.binarySearch(numeros,2));
+        System.out.println(Collections.binarySearch(numeros,0));
 
 
 

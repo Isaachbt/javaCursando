@@ -20,8 +20,7 @@ public class IteratorTest01 {
         Iterator<Manga> mangaIterator = mangas.iterator();//Iterator ele olha pra fila pra ver se tem alguem ou proximo obj
         while(mangaIterator.hasNext())
         {
-
-            if (mangaIterator.next().getQuantidade() == 0)
+            if (mangaIterator.next().getQuantidade() == 0)//verifica se a quantidade de manga e igual a zero pra remover ele da lista
             {
                 mangaIterator.remove();
             }

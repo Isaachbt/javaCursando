@@ -1,24 +1,18 @@
 package org.example.java.colecoes.dominio;
 
+import lombok.ToString;
+
 import java.util.Objects;
 import java.util.concurrent.ThreadLocalRandom;
 
+@ToString
 public class Consumidor {
     private Long id;
     private String nome;
 
     public Consumidor(String nome) {
-        this.id = id = ThreadLocalRandom.current().nextLong(); //e bom usar isso, assim ele gera ids longos, bem dificil repetir
+        this.id = ThreadLocalRandom.current().nextLong();//e bom usar isso, assim ele gera ids longos, bem dificil repetir
         this.nome = nome;
-    }
-
-
-    @Override
-    public String toString() {
-        return "Consumidor{" +
-                "id=" + id +
-                ", nome='" + nome + '\'' +
-                '}';
     }
 
     @Override

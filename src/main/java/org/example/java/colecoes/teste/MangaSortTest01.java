@@ -9,7 +9,7 @@ import java.util.List;
 
 class MangaByIdComparator implements Comparator<Manga>{
     //dessa forma vc cria uma class e chama ela aonde quiser para ordenar
-    //assim vc define aqui como vai ser feito a ordenação e vai fazer efeito em todo lugar
+    //assim vc define aqui como vai ser feito a ordenação e vai fazer efeito em todos os lugares
 
     @Override
     public int compare(Manga o1, Manga o2) {
@@ -32,6 +32,7 @@ public class MangaSortTest01 {
                 System.out.println(m);
             }
             //ordenando os objetos, pra isso precisa implementar Comparable<> e sobrecrever o metodo.
+            //na class eu ativei para ele organizar por alfabeto, mas pode ser por id, ou por qualquer outra variavel
             Collections.sort(mangas);
             System.out.println("-----------------------------------");
             for (Manga m:mangas){

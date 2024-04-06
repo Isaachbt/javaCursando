@@ -35,7 +35,7 @@ public class MapTest03 {
         Map<Consumidor, List<Manga>> map = new LinkedHashMap<>();
 
         map.put(c1,listManga);
-        map.put(c2,listManga2);
+        map.put(c2,List.of(manga1,manga5,manga4));
 
         for (Map.Entry<Consumidor,List<Manga>> entry: map.entrySet())
         {

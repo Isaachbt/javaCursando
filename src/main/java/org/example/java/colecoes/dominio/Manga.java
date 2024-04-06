@@ -1,7 +1,12 @@
 package org.example.java.colecoes.dominio;
 
+import lombok.Getter;
+import lombok.Setter;
+
 import java.util.Objects;
 
+@Getter
+@Setter
 public class Manga implements Comparable<Manga> {
     private Long id;
     private String nome;
@@ -38,9 +43,10 @@ public class Manga implements Comparable<Manga> {
         */
 
         //dessa forma q vc ordena menor maior com valores doublo float: Double.compare(preco, o.getPreco());
-        //dessa forma vc ordena em ordem alfabetica uma string em um obj: return this.nome.compareTo(o.getNome());
+        //cdessa forma v ordena em ordem alfabetica uma string em um obj: return this.nome.compareTo(o.getNome());
 
-        return this.id.compareTo(o.getId());
+        //return this.id.compareTo(o.getId());
+        return this.nome.compareToIgnoreCase(o.getNome());
 
     }
 
@@ -65,37 +71,5 @@ public class Manga implements Comparable<Manga> {
                 ", preco=" + preco +
                 ", quantidade=" + quantidade +
                 '}';
-    }
-
-    public Long getId() {
-        return id;
-    }
-
-    public void setId(Long id) {
-        this.id = id;
-    }
-
-    public String getNome() {
-        return nome;
-    }
-
-    public void setNome(String nome) {
-        this.nome = nome;
-    }
-
-    public double getPreco() {
-        return preco;
-    }
-
-    public void setPreco(double preco) {
-        this.preco = preco;
-    }
-
-    public int getQuantidade() {
-        return quantidade;
-    }
-
-    public void setQuantidade(int quantidade) {
-        this.quantidade = quantidade;
     }
 }

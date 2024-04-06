@@ -16,7 +16,7 @@ public class ListTest01 {
         }
         */
 
-        List<String> nomes = new ArrayList();
+        List<String> nomes = new ArrayList<>();
         nomes.add("isaac");
         nomes.add("net");
 
@@ -28,7 +28,7 @@ public class ListTest01 {
 
         System.out.println("-----------------");
 
-        nomes.add("Suellen");
+        nomes.add("Ester");
 
         for (int i = 0;i< nomes.size();i++)
         {

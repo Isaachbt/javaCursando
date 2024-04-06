@@ -4,7 +4,7 @@ public class StackOverflow {
     public static void main(String[] args) {
 
 
-            recursividade();
+            recursividade();//chamar o msm metodo dentro dele msm
 
 
     }

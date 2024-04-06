@@ -11,7 +11,7 @@ public class LoginInvalidoExceptionTeste01 {
         try{
             logar();
         }catch (LoginInvalidoException e){
-            e.printStackTrace();
+            System.out.println(e.getMessage());
         }
 
     }

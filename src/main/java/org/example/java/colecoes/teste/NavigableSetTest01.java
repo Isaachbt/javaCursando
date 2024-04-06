@@ -17,7 +17,6 @@ public class NavigableSetTest01 {
         mangas.add(new Manga(6L,"Dragon ball z",9.0,3));
 
 
-
         for (Manga manga : mangas) {
             System.out.println(manga);
         }

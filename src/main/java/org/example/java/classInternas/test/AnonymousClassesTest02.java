@@ -1,7 +1,5 @@
 package org.example.java.classInternas.test;
 
-
-
 import org.example.java.genericos.dominio.Barco;
 
 import java.util.ArrayList;

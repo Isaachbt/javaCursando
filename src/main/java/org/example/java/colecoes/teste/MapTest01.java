@@ -19,22 +19,22 @@ public class MapTest01 {
 
         //tem como navegar via chave e via valor,
         //as chaves tem valores unicos mas os valores não, eles podem ser repetidos pq são valores add
-
+        System.out.println("-------KEY AND VALOR---------");
         for (String key : map.keySet()) {
             //pegando apenas as chaves e listando
-            System.out.println(key);//listando as chaves
+            System.out.print(key);//listando as chaves
             //listando as chaves e com ela listando os valores juntos
             System.out.println("-"+map.get(key));//recuperando os valores com as chaves
         }
 
-        System.out.println("----------------");
+        System.out.println("-------VALORES---------");
 
         for (String value : map.values())
         {
             System.out.println(value);//listando apenas os valores
         }
 
-        System.out.println("---------------------");
+        System.out.println("---------KEY AND VALOR------------");
 
         for (Map.Entry<String, String> valorKey : map.entrySet())
         {//dessa forma ele recupera chave e valor de uma vez e com apenas um for
