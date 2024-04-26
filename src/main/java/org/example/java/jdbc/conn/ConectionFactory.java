@@ -10,9 +10,6 @@ public class ConectionFactory {
         String url = "jdbc:mysql://localhost:3306/pessoa";
         String user = "root";
         String senha = "23*02*2003Su";
-
-
-
             return DriverManager.getConnection(url, user, senha);
 
 

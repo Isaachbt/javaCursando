@@ -7,8 +7,8 @@ import java.sql.*;
 import java.util.ArrayList;
 import java.util.List;
 
-
 public class PessoaRepository {
+
     public static void save(PessoaBd peson)
     {
         String sql = String.format("INSERT INTO pessoa.dados_pessoa (nome,cpf) VALUES ('%s',%s);", peson.getName(),peson.getCpf());
@@ -35,8 +35,6 @@ public class PessoaRepository {
         } catch (SQLException e) {
             throw new RuntimeException(e);
         }
-
-
 
     }
 

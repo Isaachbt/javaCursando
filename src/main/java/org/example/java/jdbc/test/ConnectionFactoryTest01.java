@@ -15,7 +15,7 @@ public class ConnectionFactoryTest01 {
                 build();
         //PessoaServices.showTypeScrollWorking();
 
-        PessoaServices.selectAll();
+        PessoaServices.showPessoaMetaData();
 
 
 
